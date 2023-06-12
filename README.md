@@ -2,20 +2,20 @@
 
 ## Descrição das pastas
 
-### Analise
-Gera as redes específicas entre países e áreas de pesquisa. 
+### Datasets
+Gera o banco de dados em JSON a partir da rede salva no formato .gml. 
 
 ### gmls
 As redes colaborativas coletadas
 
 ### htmls
-Exemplo de html
+Usado para coletar e testar exemplos de HTML
 
 ### jsons
-Contém os dados processados das redes no formato json e os códigos usados para gera-los
+Contém os dados processados das redes no formato json
 
-### tensorflow
-Códigos usados para fazer a análise dos dados, e novos jsons gerados
+### Tensorflow
+Códigos usados na análise dos dados
 
-### Web_Scrap
-Códigos usados para a coleta de dados
+### WebScrapping
+Códigos usados na coleta de dados
